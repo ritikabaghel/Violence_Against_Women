@@ -1,5 +1,24 @@
 #Violence_Against_Women
 
+
+PROBLEM DEFINITION
+	• While doing analysis on the project we are analyzing which country people have responded the most against violence.
+	• Therefore, to make it easier we are using data analysis to analyze the percentage of violence.
+	• We are analyzing 70 countries in which we see which category (education, residence, marital status, gender) of people give maximum responses over that the husband is justified to hitting his wife.
+
+OBJECTIVE
+	Focussing on key questions across gender, education level, and many other socioeconomic variables across 70 countries and gaining a better understanding of where Gender violence stems.
+
+SPECIFIC OBJECTIVE
+	Find the country with the highest number of responses.
+	Find the trend in responses across the years.
+	Find the distribution of responses in the different demographic groups :
+	Age
+	Marital status
+	Education Background
+	Employment.
+	Residence type { urban and rural}
+ 
  DATA DESCRIPTION
 	The dataset for our Analysis was downloaded from Kaggle.
 	The data set belongs to 70 Countries.
