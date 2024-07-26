@@ -31,7 +31,7 @@ The numeric value is unique to each question by country.
 ### Gender:-      
 Whether the Respondent was Male or Female.
 ### Demographics Question:- 
-Refers to the different types of demographic groupings used to segment respondents – marital status, education level, employment status, residence type, or age.
+Refers to the different demographic groupings used to segment respondents – marital status, education level, employment status, residence type, or age.
 ### Demographics Response:- 
 Refers to the demographic segment into which the respondent falls (e.g., the age groupings are split into 15-24, 25-34, and 35-49)
         * Age (15-24, 25-34, 35-49)
@@ -41,12 +41,12 @@ Refers to the demographic segment into which the respondent falls (e.g., the age
         * Residence (Rural, Urban)
 
 ### Marital Status: - Respondents were asked if they agreed with the following statements: 
- * husband is justified in hitting or beating his wife if she burns the food.
- * husband is justified in hitting or beating his wife if she argues with him. 
- * husband is justified in hitting or beating his wife if she goes out without telling him. 
- * husband is justified in hitting or beating his wife if she neglects the children. 
- * husband is justified in hitting or beating his wife if she refuses to have sex with him.
- * husband is justified in hitting or beating his wife for at least one specific reason.
+ * The husband is justified in hitting or beating his wife if she burns the food.
+ * The husband is justified in hitting or beating his wife if she argues with him. 
+ * The husband is justified in hitting or beating his wife if she goes out without telling him. 
+ * The husband is justified in hitting or beating his wife if she neglects the children. 
+ * The husband is justified in hitting or beating his wife if she refuses to have sex with him.
+ * The husband is justified in hitting or beating his wife for at least one specific reason.
  	
 ### Survey Year:-
 Year in which the Demographic and Health Survey (DHS) took place.
